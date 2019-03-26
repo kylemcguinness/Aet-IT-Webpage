@@ -2,7 +2,7 @@
 ------------------------------------
 	Labs - Design Studio
 	Version: 1.0
- ------------------------------------ 
+ ------------------------------------
  ====================================*/
 
 
@@ -520,7 +520,7 @@ ul {
 
 .test-overlay {
 	position: absolute;
-	background-image: url("../img/test-man.png");
+  background-image: url("../img/test-man.jpg");*/
 	background-repeat: no-repeat;
 	background-position: bottom right;
 	background-size: contain;
