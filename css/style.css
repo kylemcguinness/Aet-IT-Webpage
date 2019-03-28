@@ -18,7 +18,10 @@ body {
 img {
 	max-width: 100%;
 }
-
+#titlepage{
+	font-size:72px;
+	color:#008000;
+}
 h1,
 h2,
 h3,
